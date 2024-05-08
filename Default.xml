@@ -87,7 +87,7 @@
     <string name="lib_lutnoisefix_pro_key">0</string>
     <string name="lib_smoothingnew_key_4">0</string>
     <string name="lib_smoothingnew_key_5">0</string>
-    <string name="pref_video_stab_button_untouched_count">4</string>
+    <string name="pref_video_stab_button_untouched_count">6</string>
     <string name="lib_lumab_key_3">0</string>
     <string name="lib_lumab_key_2">0</string>
     <string name="pref_Copmode_video_key">0</string>
@@ -651,6 +651,7 @@
     <string name="lib_gainrad_key_4">0</string>
     <string name="lib_gainrad_key_3">0</string>
     <string name="lib_spatialb_key">0</string>
+    <string name="pref_video_fps_key">FPS_30</string>
     <string name="lib_sharpshastamotion_key_5">0</string>
     <string name="lib_gainrad_pro_key">0</string>
     <string name="lib_sharpshastamotion_key_4">0</string>
@@ -948,6 +949,7 @@
     <string name="lib_hardjpgquality_key">0</string>
     <string name="pref_black_level_key_wide">0</string>
     <string name="lib_raisrzftuning2_key">0</string>
+    <boolean name="micro_video_supported" value="false" />
     <string name="cw_bg_key_front">0.38687</string>
     <string name="bl3_key_main">64</string>
     <string name="lib_saturation3_ldr_key">0</string>
@@ -1203,6 +1205,7 @@
     <string name="lib_lumadls_l3_key_3">0</string>
     <string name="lib_lumadls_l3_key_2">0</string>
     <string name="lib_sabrecontrastsharp_key">0</string>
+    <boolean name="fps_video_setting_writeable" value="false" />
     <string name="lib_tripod_key_5">0</string>
     <string name="lib_tripod_key_3">0</string>
     <string name="lib_sabre2_key">0</string>
@@ -1712,7 +1715,7 @@
     <string name="f_rg_key_3">0.63122</string>
     <string name="f_rg_key_4">0.63122</string>
     <string name="f_rg_key_5">0.63122</string>
-    <string name="pref_camera_video_back_flashmode_thermally_disabled_key">1</string>
+    <string name="pref_camera_video_back_flashmode_thermally_disabled_key">0</string>
     <string name="lib_lumaa_key_5">0</string>
     <string name="pref_show_button_tf">1</string>
     <string name="lib_temporalb_key_front">0</string>
@@ -2038,7 +2041,7 @@
     <string name="lib_sabrenoiseestimals_key_3">0</string>
     <string name="gb_1_key">0.086</string>
     <string name="lib_sabre1_pro_key">0</string>
-    <string name="dev_setting_filter_key"></string>
+    <string name="dev_setting_filter_key">camera</string>
     <string name="lib_hdreffect_key_front">0</string>
     <string name="lib_temporal_radius_key">0</string>
     <string name="lib_lumadl_l3_key">0</string>
