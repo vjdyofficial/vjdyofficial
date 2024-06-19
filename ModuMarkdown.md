@@ -8,7 +8,7 @@ This blocks will be used to create the replacement system in the Label Component
 
 ![procedures_callreturn](https://github.com/vjdyofficial/vjdyofficial/assets/136038916/c9ebb3d3-ac52-4463-8ab6-f806bf6ec153)
 
-This procedure block will used on the label component to create a visual paragraph. Bes ure that the **HTML Format** is enabled. Using this symbols: `<` and `>` are now restricted. All codes included here will convert into HTML code that is powered by RegEx (Regular Expressions). This common break line symbol: `\n` is converted into HTML code like this: **`<br>`** to stiil use the break line everytime you click enter.
+This procedure block will used on the label component to create a visual paragraph. Be sure that the **HTML Format** is enabled. Using this symbols: `<` and `>` are now restricted. All codes included here will convert into HTML code that is powered by RegEx (Regular Expressions). This common break line symbol: `\n` is converted into HTML code like this: **`<br>`** to stiil use the break line everytime you click enter.
 
 Styling Codes
 
