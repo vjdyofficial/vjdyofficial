@@ -62,6 +62,6 @@ All codes will use **Android System Fonts** instead of Windows Fonts like full n
 
 **Source Sans Pro Semibold** → `@sourcesans=600[` into **`<font face=source-sans-pro-semi-bold>`** on some devices running _`Android 10+`_ 
 
-**Samsung Default Font (One UI Sans)** → `@samsung[` into **`<font face=sec>`** on some devices running _`Android 14+, OneUI 6.0+`_ 
+**Samsung Default Font (One UI Sans)** → `@samsung[` into **`<font face=sec>`** on some devices running _`Android 14+ on OneUI 6.0+`_ 
 
 **Font End** → `]end` into **`</font>`**
