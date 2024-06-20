@@ -9,20 +9,29 @@
 - ⚡ Fun fact: I doing this developing apps since 2022 of December.
 
 > [!NOTE]
-Hi there! I'm a Student Content Creator, Graphic Designer, Developer and Photographer. I am so friendly at school, church and one of my cousins.
+Hi there! I'm a Student Content Creator, Graphic Designer, Developer and Photographer. I am so friendly at school, church and one of my cousins. I do some sort of these things to help people, to share it with you and having a good time.
 
 > [!TIP]
-I love my ninang kaye so much. even though she has a boyfriend already. I'm supporting her on Instagram and YouTube like a collab with each other. But the most loving so much is my family and cousins. I also love my friends.
+Here is the tip I got from idea. I love my beautiful godmother or _ninang_ kaye so much. even though she has a boyfriend already. I'm supporting her on Instagram and YouTube like a collab with each other. But the most loving so much is my family and cousins. I also love my friends.
 
 > [!IMPORTANT]
-I have a YouTube Channel. also, I'm trying to do my best to upload more and VJDY Official Productions is **my own platform**.
+The important things I made is doing a content in my YouTube Channel. also, I'm trying to do my best to upload more and VJDY Official Productions is **my own platform**. Also, I am coding markdown notes on GitHub to share my experiences. One of others I made with my hobbies are Graphic Desiging, this can be use for creativity. Developing, I made useful apps for you for free. and last but not the least is Photography. I took the photo of sunset, portrait, nature and inspired people I met.
 
 > [!WARNING]
-I don't want to have a **crush** because it's too hard to do something to the crush you have. If it's easy to do, then YES.
+> I don't
+> 
+> • want to have a **crush** because it's too hard to do something to the crush you have. If it's easy to do, then YES.
+> 
+> • want to hear one of the most common hurted words I heard from my friends
+>
+> • like bully here on social. Be kind and respect. Especially for _ninang_ kaye. 😊
+>
+> • like to post on Facebook, because Facebook is not safe for content creators.
+>
+> • like TikTok because TikTok have bad guidelines.
 
 > [!CAUTION]
-No spoiling all of my profile pictures. I don't like bully here on social. Be kind and respect. Especially for ninang kaye. 😊
-
+> I apply the profile picture of Me and **_ninang_ Kaye Collada** is just for inspiration. She has a boyfriend already. So, try not to do bad procedures because me and Kaye are collaborated. Also, we are close friends to each other.
 
 # My pictures
 <img width="250px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/0362f923-397d-4d93-85e2-e7690905d5f3">
