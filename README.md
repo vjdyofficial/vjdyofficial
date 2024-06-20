@@ -25,9 +25,9 @@ I love my ninang kaye so much. even though she has a boyfriend already. I'm supp
 
 
 # My pictures
-<img width="25%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/0362f923-397d-4d93-85e2-e7690905d5f3">
-<img width="25%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/d61fdab3-9ab0-426a-a010-fe0257872fa6">
-<img width="25%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5c79253f-6877-4650-9d30-a0f08f9c4f8a">
+<img width="250px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/0362f923-397d-4d93-85e2-e7690905d5f3">
+<img width="250px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/d61fdab3-9ab0-426a-a010-fe0257872fa6">
+<img width="250px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5c79253f-6877-4650-9d30-a0f08f9c4f8a">
 
 
 <!---
