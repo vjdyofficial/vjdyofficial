@@ -73,7 +73,7 @@ ModuMarkdown created by vjdyofficial is the modified version of Markdown Languag
 **Font End** → `]end` into **`</font>`**
 
 > [!CAUTION]
-> Monospace Font Code is no longer use in HTML Code, this was because some Samsung Devices got broke if you try to change font in Android 13+.
+> Monospace Font Code is no longer use in HTML Code, this was because some Samsung Devices got the monospace font not working if you try to change font in Android 13+.
 
 Some fonts with this symbol: <picture><source width="24px" height="24px" media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/7764c7a0-8b95-4fc5-ba39-e3265ed7420b"><source width="24px" height="24px"  media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/308ddaf7-9204-4f8a-a7a9-2dacf43b035c"><img width="24px" height="24px" alt="Shows the representing icons in Material Symbols." src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/7764c7a0-8b95-4fc5-ba39-e3265ed7420b"></picture> means that is not implemented on some older Android Operating Systems.
 
