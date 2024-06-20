@@ -1,4 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<!--THESE ARE THE SETTINGS MAPPED IN LMC 8.4-->
+<!--DO NOT REMOVE ONE OF THE STRING KEY PROVIDED IN THIS FILE.-->
+<!--COMPATIBLE FOR ALL DEVICES THAT SUPPORTS LMC 8.4-->
 <map>
     <string name="lib_lumadhs_l2_pro_key">0</string>
     <string name="lib_lumadls_l4_key_front">0</string>
