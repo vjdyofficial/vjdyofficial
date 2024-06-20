@@ -34,7 +34,12 @@ The important things I made is doing a content in my YouTube Channel. also, I'm 
 > I apply the profile picture of Me and **_ninang_ Kaye Collada** is just for inspiration. She has a boyfriend already. So, try not to do bad procedures because me and Kaye are collaborated. Also, we are close friends to each other.
 
 # My pictures
-<img width="25%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/0362f923-397d-4d93-85e2-e7690905d5f3"><img width="25%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/d61fdab3-9ab0-426a-a010-fe0257872fa6"><img width="25%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5c79253f-6877-4650-9d30-a0f08f9c4f8a">
+<img width="33.33%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/0362f923-397d-4d93-85e2-e7690905d5f3"><img width="33.33%"  src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/d61fdab3-9ab0-426a-a010-fe0257872fa6"><img width="33.33%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5c79253f-6877-4650-9d30-a0f08f9c4f8a">
+
+# Portrait Photo with Kaye Collada using LMC 8.4 Release 18
+Here's the photos I took for the first time.
+
+<img width="33.33%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/c92f3d5a-2cd7-41ae-8091-fd63d047e00d"><img width="33.33%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/75121a6f-97ab-4f9c-ab2b-174bcd908bd2">
 
 # My gears and used apps
 ## Photo Editing
