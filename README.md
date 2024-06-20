@@ -18,7 +18,7 @@ Here is the tip I got from idea. I love my beautiful godmother or _ninang_ kaye 
 The important things I made is doing a content in my YouTube Channel. also, I'm trying to do my best to upload more and VJDY Official Productions is **my own platform**. Also, I am coding markdown notes on GitHub to share my experiences. One of others I made with my hobbies are Graphic Desiging, this can be use for creativity. Developing, I made useful apps for you for free. and last but not the least is Photography. I took the photo of sunset, portrait, nature and inspired people I met.
 
 > [!WARNING]
-> I don't
+> ## I don't...
 > 
 > • want to have a **crush** because it's too hard to do something to the crush you have. If it's easy to do, then YES.
 > 
@@ -34,9 +34,7 @@ The important things I made is doing a content in my YouTube Channel. also, I'm 
 > I apply the profile picture of Me and **_ninang_ Kaye Collada** is just for inspiration. She has a boyfriend already. So, try not to do bad procedures because me and Kaye are collaborated. Also, we are close friends to each other.
 
 # My pictures
-<img width="250px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/0362f923-397d-4d93-85e2-e7690905d5f3">
-<img width="250px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/d61fdab3-9ab0-426a-a010-fe0257872fa6">
-<img width="250px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5c79253f-6877-4650-9d30-a0f08f9c4f8a">
+<img width="25%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/0362f923-397d-4d93-85e2-e7690905d5f3"><img width="25%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/d61fdab3-9ab0-426a-a010-fe0257872fa6"><img width="25%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5c79253f-6877-4650-9d30-a0f08f9c4f8a">
 
 # My gears and used apps
 ## Photo Editing
