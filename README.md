@@ -12,7 +12,7 @@
 Hi there! I'm a Student Content Creator, Graphic Designer, Developer and Photographer. I am so friendly at school, church and one of my cousins. I do some sort of these things to help people, to share it with you and having a good time.
 
 > [!TIP]
-Here is the tip I got from idea. I love my beautiful godmother or _ninang_ kaye so much. even though she has a boyfriend already. I'm supporting her on Instagram and YouTube like a collab with each other. But the most loving so much is my family and cousins. I also love my friends.
+I love my beautiful godmother or _ninang_ kaye so much. even though she has a boyfriend already. I'm supporting her on Instagram and YouTube like a collab with each other. But the most loving so much is my family and cousins. I also love my friends.
 
 > [!IMPORTANT]
 The important things I made is doing a content in my YouTube Channel. also, I'm trying to do my best to upload more and VJDY Official Productions is **my own platform**. Also, I am coding markdown notes on GitHub to share my experiences. One of others I made with my hobbies are Graphic Desiging, this can be use for creativity. Developing, I made useful apps for you for free. and last but not the least is Photography. I took the photo of sunset, portrait, nature and inspired people I met.
