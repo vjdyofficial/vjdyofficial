@@ -41,6 +41,9 @@ Here's the photos I took for the first time.
 
 <img width="33.33%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/c92f3d5a-2cd7-41ae-8091-fd63d047e00d"><img width="33.33%" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/75121a6f-97ab-4f9c-ab2b-174bcd908bd2">
 
+# My most overplayed song from NewJeans
+https://github.com/vjdyofficial/vjdyofficial/assets/136038916/61eedbf2-89d1-40a3-ac61-6dc6767d5d0a
+
 # My gears and used apps
 ## Photo Editing
 - Adobe Photoshop 2021
@@ -59,7 +62,6 @@ Here's the photos I took for the first time.
 ## Camera Apps
 - Default Camera App
 - LMC 8.4 Release 18
-
 
 <!---
 vjdyofficial/vjdyofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
