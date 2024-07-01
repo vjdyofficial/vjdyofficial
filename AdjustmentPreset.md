@@ -1,6 +1,6 @@
-# Adjustment Presets for editing apps
+# Adjustment Presets
 
-If you use Inshot, Capcut Adobe Lightroom or any editing apps supports photo editing, You can do this presets below!
+This presets are applied for Adobe Phoroshop Express and Adobe Lightroom! You can do this presets below hy adjusting the values below!
 
 | _LUTs_ | Anime | 80s | Western Country | Tropical Vibes |
 | :--- | :---: | :---: | :---: | :---: |
