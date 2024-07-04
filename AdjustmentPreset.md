@@ -1,6 +1,6 @@
 # Adjustment Presets
 
-This presets are applied for Adobe Phoroshop Express and Adobe Lightroom! You can do this presets below hy adjusting the values below!
+This presets are applied for Adobe Photoshop Express and Adobe Lightroom! You can do this presets below hy adjusting the values below!
 
 | _LUTs_ | Anime | 80s | Western Country | Tropical Vibes |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,8 +23,7 @@ This presets are applied for Adobe Phoroshop Express and Adobe Lightroom! You ca
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/826b7eb4-289d-431b-bdbe-38c1e567acef"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/403f454b-6d63-4a22-97b1-5d69635eeb8e"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/826b7eb4-289d-431b-bdbe-38c1e567acef"></picture> Vignette | `0` | `0` | `0` |  |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/ae26622e-484c-4135-b270-8691bfeb8033"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/27d866da-fa25-428b-8db7-fded441108cc"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/ae26622e-484c-4135-b270-8691bfeb8033"></picture> Grain | `+56` | `0` | `0` |  |
 | **Curve Adjustments** |
-| Curve Visuals | <img align="center" alt="icon" width="350px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/270e4bfa-c179-48e5-8cbb-a65425d53265"> | <img align="center" alt="icon" width="350px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/70ac5ab8-f6c0-4d8e-92e6-defa89df995f"> | <img align="center" alt="icon" width="350px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/304e4262-81d5-4e8d-87c4-c91d3933db23"> |  |
-| Curve Values | 1. `0.3y`<br>2. `0.8x 0.8y`<br>3. `3.1x 3.1y`<br>4. `3.8y` | 1. `0.45y`<br>2. `1x 0.9y`<br>3. `2.45x 2.5y`<br>4. `1y` | 1.`0.25y`<br>2. `0.8x 0.8y`<br>3. `3x 3y`<br>4. `3.8y` |  |
+| Curves | <img align="center" alt="icon" width="350px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/270e4bfa-c179-48e5-8cbb-a65425d53265"> | <img align="center" alt="icon" width="350px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/70ac5ab8-f6c0-4d8e-92e6-defa89df995f"> | <img align="center" alt="icon" width="350px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/304e4262-81d5-4e8d-87c4-c91d3933db23"> |  |
 | **Mix Adjustments** |
 | <img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/25d6c304-7905-48eb-9673-54f2f06c9344"></picture> Red | Hue `+10`<br>Sat `-15`<br>Lum `0` | Hue `22`<br>Sat `-7`<br>Lum `+11` | Hue `10`<br>Sat `-15`<br>Lum `0` |  |
 | <img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/8f26c9e1-51a3-4a1f-bd62-a6e7fe06d01c"></picture> Orange | Hue `-13`<br>Sat `-29`<br>Lum `+13` | Hue `-19`<br>Sat `-4`<br>Lum `-8` | Hue `-13`<br>Sat `-13`<br>Lum `+13` |  |
