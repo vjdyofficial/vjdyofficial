@@ -5,23 +5,23 @@ This presets are applied for Adobe Photoshop Express and Adobe Lightroom! You ca
 | _LUTs_ | Anime | 80s | Western Country | Tropical Vibes |
 | :--- | :--- | :--- | :--- | :--- |
 | **Light Adjustments** |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/abde5ec8-243c-473b-b23d-f56e78f7fc67"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/e5c6bafa-3674-44c3-9b3d-c3e4785c27bf"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/abde5ec8-243c-473b-b23d-f56e78f7fc67"></picture> Exposure | `+0.30EV` | `+0.36` | `0` | `+0.69` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/eb0ccf90-db98-4802-aea0-39be1cc5506b"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5da84035-1caf-4745-a803-591c77c7a261"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/eb0ccf90-db98-4802-aea0-39be1cc5506b"></picture> Contrast | `+44` | `26` | `+29` | `+8` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/98f81ac4-22c7-4347-a561-05d94fa12b56"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/7ce2a492-4c04-4c96-b365-f92aa2de1238"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/98f81ac4-22c7-4347-a561-05d94fa12b56"></picture> Highlights | `-42` | `-50` | `-68` | `-35` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5a65c85b-f094-4c88-85a7-a945e01abf22"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/defc1557-6610-403d-99b5-41252e96c10a"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5a65c85b-f094-4c88-85a7-a945e01abf22"></picture> Shadows | `+84` | `+100` | `+53` | `+58` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/47f2562d-5400-407b-8161-29425e1844b2"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/05a9bde9-9119-46e4-b827-2ebc41681900"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/47f2562d-5400-407b-8161-29425e1844b2"></picture> Whites | `-12` | `-14` | `+49` | `+39` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/d13acb2f-cc4c-44e0-9036-8c9a04c42743"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/62749554-67f5-45d5-8c6a-8630538936b7"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/d13acb2f-cc4c-44e0-9036-8c9a04c42743"></picture> Blacks | `+26` | `7` | `+48` | `+21` |
+| Exposure | `+0.30EV` | `+0.36` | `0` | `+0.69` |
+| Contrast | `+44` | `26` | `+29` | `+8` |
+| Highlights | `-42` | `-50` | `-68` | `-35` |
+| Shadows | `+84` | `+100` | `+53` | `+58` |
+| Whites | `-12` | `-14` | `+49` | `+39` |
+| Blacks | `+26` | `7` | `+48` | `+21` |
 | **Color Adjustments** |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/b66901cf-3142-4624-a213-8305cebd4ab8"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/a3299b30-6472-4d38-ab45-4a0c264c5482"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/b66901cf-3142-4624-a213-8305cebd4ab8"></picture> Temperature | `+7` | `+2` | `+4` | `+4` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/64de6ce9-743d-41fc-9bb2-896ae719e960"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/20d5c9d9-4add-42f4-9944-31cc1109aa13"><img align="center" alt="icon" src=""></picture> Tint | `+20` | `+1` | `+14` | `-10` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/6d9f55dd-dc51-4244-ad58-e9cf7dd1e695"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/ce4a3f6d-ccbe-4ef9-a71f-910e045533e2"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/6d9f55dd-dc51-4244-ad58-e9cf7dd1e695"></picture> Vibrance | `0` | `-12` | `0` | `-1` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/8402b30c-914b-44e5-b341-c469be0abd57"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/9f833906-a154-41a5-9424-931ced04ed6a"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/8402b30c-914b-44e5-b341-c469be0abd57"></picture> Saturation | `-1` | `10` | `+1` | `+1` |
+| Temperature | `+7` | `+2` | `+4` | `+4` |
+| Tint | `+20` | `+1` | `+14` | `-10` |
+| Vibrance | `0` | `-12` | `0` | `-1` |
+| Saturation | `-1` | `10` | `+1` | `+1` |
 | **Effect Adjustments** |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5946d165-1a0d-4abf-9c59-af714b53810c"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/6a7631b8-e21a-46e9-a8bc-020c1e5f48cb"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5946d165-1a0d-4abf-9c59-af714b53810c"></picture> Texture | `+15` | `0` | `+15` | `+18` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/ab1b9220-0ac1-415b-9f57-8bb447311067"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/79f47580-cbb1-47ca-a34e-00175569d9b6"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/ab1b9220-0ac1-415b-9f57-8bb447311067"></picture> Clarity | `-33` | `-17` | `-21` | `0` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/a1b0dec7-6859-4575-98aa-63ca82dadb07"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/1a1a4c2b-071b-47ea-9aff-3addc24b160b"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/a1b0dec7-6859-4575-98aa-63ca82dadb07"></picture> Dehaze | `-7` | `19` | `-5` | `+30` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/826b7eb4-289d-431b-bdbe-38c1e567acef"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/403f454b-6d63-4a22-97b1-5d69635eeb8e"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/826b7eb4-289d-431b-bdbe-38c1e567acef"></picture> Vignette | `0` | `0` | `0` | `-8` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/ae26622e-484c-4135-b270-8691bfeb8033"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/27d866da-fa25-428b-8db7-fded441108cc"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/ae26622e-484c-4135-b270-8691bfeb8033"></picture> Grain | `+56` | `0` | `0` | `+13`<br>`Size +25`<br>`Roughness +50` |
+| Texture | `+15` | `0` | `+15` | `+18` |
+| Clarity | `-33` | `-17` | `-21` | `0` |
+| Dehaze | `-7` | `19` | `-5` | `+30` |
+| Vignette | `0` | `0` | `0` | `-8` |
+| Grain | `+56` | `0` | `0` | `+13`<br>`Size +25`<br>`Roughness +50` |
 | **Curve Adjustments** |
 | Curves | <img align="center" alt="icon" width="300px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/270e4bfa-c179-48e5-8cbb-a65425d53265"> | <img align="center" alt="icon" width="300px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/70ac5ab8-f6c0-4d8e-92e6-defa89df995f"> | <img align="center" alt="icon" width="300px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/304e4262-81d5-4e8d-87c4-c91d3933db23"> | <img align="center" alt="icon" width="300px" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/f58da9d0-a652-4d50-97b0-f7a3aab5b8b3"> |
 | **Mix Adjustments** |
@@ -34,9 +34,9 @@ This presets are applied for Adobe Photoshop Express and Adobe Lightroom! You ca
 | <img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/2b387338-ae33-4a96-bbe8-695c1162ce17"></picture> Purple | Hue `0`<br>Sat `-22`<br>Lum `0` | Hue `+9`<br>Sat `+16`<br>Lum `+22` | Hue `0`<br>Sat `-22`<br>Lum `0` | Hue `0`<br>Sat `0`<br>Lum `0` |
 | <img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/a1b47d2d-c841-4cdc-b442-2b246c35f2a8"></picture> Magenta | Hue `0`<br>Sat `-15`<br>Lum `0` | Hue `0`<br>Sat `0`<br>Lum `0` | Hue `-9`<br>Sat `-15`<br>Lum `0` | Hue `0`<br>Sat `0`<br>Lum `0` |
 | **Grading Adjustments** |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5a65c85b-f094-4c88-85a7-a945e01abf22"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/defc1557-6610-403d-99b5-41252e96c10a"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5a65c85b-f094-4c88-85a7-a945e01abf22"></picture> Shadows | Hue `203°`<br>Sat `26`<br>Lum `0` | Hue `270°`<br>Sat `7`<br>Lum `0` | Hue `42`<br>Sat `2`<br>Lum `0` | Hue `24`<br>Sat `55`<br>Lum `-1` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/98f81ac4-22c7-4347-a561-05d94fa12b56"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/7ce2a492-4c04-4c96-b365-f92aa2de1238"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/98f81ac4-22c7-4347-a561-05d94fa12b56"></picture> Highlights | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0`<br>Sat `0`<br>Lum `0` |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/eb0ccf90-db98-4802-aea0-39be1cc5506b"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/5da84035-1caf-4745-a803-591c77c7a261"><img align="center" alt="icon" src="https://github.com/vjdyofficial/vjdyofficial/assets/136038916/eb0ccf90-db98-4802-aea0-39be1cc5506b"></picture> Midtones | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0`<br>Sat `0`<br>Lum `0` |
+| Shadows | Hue `203°`<br>Sat `26`<br>Lum `0` | Hue `270°`<br>Sat `7`<br>Lum `0` | Hue `42`<br>Sat `2`<br>Lum `0` | Hue `24`<br>Sat `55`<br>Lum `-1` |
+| Highlights | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0`<br>Sat `0`<br>Lum `0` |
+| Midtones | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0°`<br>Sat `0`<br>Lum `0` | Hue `0`<br>Sat `0`<br>Lum `0` |
 
 # Detail Adjustments
 
@@ -50,3 +50,13 @@ Sharpness Detail is needed if the photo, portrait or selfies have blurred, noise
 | Radius | `+1.80` | Detail | `+50` | Detail | `+50` |
 | Detail | `+24` | Contrast | `0` | Smoothness | `+24` |
 | Masking | `+46` |
+
+## Smooth Detailing
+
+| **Sharpening** | | **Noise** | | **Color Noise** | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Amount | `+150` | Reduction | `+50` | Reduction | `+50` |
+| Radius | `+2.80` | Detail | `+50` | Detail | `+50` |
+| Detail | `+85` | Contrast | `+25` | Smoothness | `+100` |
+| Masking | `+50` |
+
