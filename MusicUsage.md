@@ -47,3 +47,4 @@
 > [!CAUTION]
 > 1. You may not make available, distribute or perform the music files from this library separately from videos and other content into which you have incorporated these music files (e.g., standalone distribution of these files is not permitted).
 > 2. If the **bad procedures** has been found in the list of **DONT'S in warnings** on top, you will get a **copyright strike** on YouTube.
+> 3. All Games Official Soundtrack are owned and credited to **the respective owners and companies**.
