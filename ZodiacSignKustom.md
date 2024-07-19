@@ -2,7 +2,7 @@
 Kustom apps 3.74 and later version now supports SVG Vectors so you will not be able to use font just for the icons.
 To use the SVG icon, let's setup your global variables in Kustom Editor.
 
-Be sure to create the **CoreGUI** and **ZodiacSH** folder in Kustom so you will have to separate the global variable from other variables you use.
+Be sure to create the **CoreGUI** and **SVG** folder in Kustom so you will have to separate the global variable from other variables you use.
 
 Create **zodiacc** as Global Text Object and copy this:
 
