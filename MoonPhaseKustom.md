@@ -5,13 +5,13 @@ To use the SVG icon, let's setup your global variables in Kustom Editor.
 Be sure to create the **CoreGUI** and **SVG** folder in Kustom so you will have to separate the global variable from other variables you use.
 
 > [!IMPORTANT]
-> To copy all of these codes, download the TXT file through my GitHub Release Tag called **kustomcodes**. just type in the address bar: `github.com/vjdyofficial/vjdyofficial/releases/tags` and append the word `kustomcodes`.
+> To copy all of these codes, download the TXT file through my GitHub Release Tag called **kustomcodes**. just type in the address bar: `github.com/vjdyofficial/vjdyofficial/releases/tag` and append the word `kustomcodes`.
 
 > [!NOTE]
 > Open TXT file in Text Editor app on your device.
 
 # Getting started
-Create **moonc** as Global Text Object and copy this from the KCODE file:
+Create **moonc** as Global Text Object and copy this from the TXT file:
 
 ## Represent the waning cresent moon type shape.
 This is the beginning of the _if_ condition.
