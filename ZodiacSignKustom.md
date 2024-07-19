@@ -1,10 +1,16 @@
-# Zodiac Sign SVG on Kustom Apps
 Kustom apps 3.74 and later version now supports SVG Vectors so you will not be able to use font just for the icons.
 To use the SVG icon, let's setup your global variables in Kustom Editor.
 
 Be sure to create the **CoreGUI** and **SVG** folder in Kustom so you will have to separate the global variable from other variables you use.
 
-Create **zodiacc** as Global Text Object and copy this:
+> [!IMPORTANT]
+> To copy all of these codes, download the TXT file through my GitHub Release Tag called **kustomcodes**. just type in the address bar: `github.com/vjdyofficial/vjdyofficial/releases/tags` and append the word `kustomcodes`.
+
+> [!NOTE]
+> Open TXT file in Text Editor app on your device.
+
+# Getting started
+Create **moonc** as Global Text Object and copy this from the TXT file:
 
 `$if(ai(zodiac)="ARIES",
 "M49.178 72V41.536C49.178 37.0987 48.1967 33.6213 46.234 31.104C44.314 28.544 41.4767 27.264 37.722 27.264C35.2473 27.264 
