@@ -1,3 +1,5 @@
+# Notices and Importances
+
 > [!IMPORTANT]
 > - The music with specific album has been compressed in ZIP format. Download the album music that is started with `@album`.
 > - If the music is not started with `@album`, means that is a single track.
@@ -48,3 +50,28 @@
 > 1. You may not make available, distribute or perform the music files from this library separately from videos and other content into which you have incorporated these music files (e.g., standalone distribution of these files is not permitted).
 > 2. If the **bad procedures** has been found in the list of **DONT'S in warnings** on top, you will get a **copyright strike** on YouTube.
 > 3. All Games Official Soundtrack are owned and credited to **the respective owners and companies**.
+
+# Embed my music on your website
+## Procedures
+You will be able to embed my music on your website with the `audio` tag in HTML.
+You can simply type this in the code editor:
+
+|Type|Description|Code|
+|---|---|---|
+|Size to fit|This can use to resize the actual _div_ component to the parent component|`<div style"width:100%; height:100%">`|
+|Audio Tag Beginning|This can use to initialize audio component.<br><br>There are strings that is used in **controlsList** tag:<br><br>`nodownload` This can prevent users from downloading if the website is intended only for music background play.<br>`noplaybackrate` This will disable the playback speed in Chromium-based browsers to prevent from speeding up or down. Firefox already disables playback speed.|`<audio style="width:100%; height:100%;" controls controlsList="noplaybackrate nodownload" name="media">`|
+|Source Link and Mimetype|This will use to locate and use the audio file from the website directory or any CDN links. Using path from local storage is not allowed. **Be sure to check the Mimetype on the properties to add the mimetype string in the type tag.**.|`<source src="--music link--" type="audio/mpeg">`|
+|Text|This will use to show if the browser doesn't support audio playback.|`"Sorry, your browser doesn't support audio playback to preview. please upgrade your browser."`|
+|End of Audio Tag|This will close the audio tag.|`</audio>`|
+|DIV Closure|This will close the tag and appended with the next one.|`</div>`|
+
+## --music link-- string tip
+This string `--music link--` is the segment to replace with the following:
+
+`https://github.com/vjdyofficial/vjdyofficial/releases/download/vjdyofficialmusic-2022/--name--.mp3`
+
+`https://github.com/vjdyofficial/vjdyofficial/releases/download/vjdyofficialmusic-2023/--name--.mp3`
+
+`https://github.com/vjdyofficial/vjdyofficial/releases/download/vjdyofficialmusic-2024/--name--.mp3`
+
+and this string `--name--` is the segment to replace the file name of the specific release links.
