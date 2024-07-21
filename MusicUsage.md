@@ -1,9 +1,7 @@
 # Notices and Importances
 
 > [!IMPORTANT]
-> - The music with specific album has been compressed in ZIP format. Download the album music that is started with `@album`.
-> - If the music is not started with `@album`, means that is a single track.
-> - You can download all of these files by downloading a **Source Code Package** in `ZIP` or `TAR.GZ` format. 
+> - All music files are available for download to everyone! Please be agree about the copyright property of VJDY Official Productions. Games OSTs are credited to the respective companies.
 
 > [!NOTE]
 > This music is available for use in your videos without the requirement to distribute it through Music Distribution services.
