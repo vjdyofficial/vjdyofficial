@@ -21,6 +21,23 @@
 |Sharp Depth 1             |`1.125`                |
 
 ## Color
+|Name |Value  |
+|---  |---    |
+|CG3  |`1.50` |
+|CF1  |`0.99` |
+|CF2  |`1.04` |
+
+## Noise Reduction
 |Name                      |Value                  |
 |---                       |---                    |
-|Sharp Shasta Motion       |`6.00`                 |
+|Smoothness                |`5.00`                 |
+|Radius Temporal           |`640`                  |
+
+## Light and Shadow
+|Name                      |Value                  |
+|---                       |---                    |
+|Dehazed-Exp               |`1.750`                |
+|HDR Range -               |`-4.5`                 |
+|HDR Range +               |`14.5`                 |
+|HDR Overall Lightness     |`1.0`                  |
+|HDR Effect Intensity      |`1.000`                |
