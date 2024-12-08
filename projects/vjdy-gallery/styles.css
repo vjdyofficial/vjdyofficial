@@ -1,7 +1,114 @@
+:root {
+    --shadow: 8px;
+    --content-parent: 90%;
+    --content-child: 30%;
+    --corners: 8px;
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    height: 100%;
+    margin: 0px;
+    background-color: rgb(0, 0, 0, 0.50);
+}
+ 
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+    color: white;
+    margin-right: 12px;
+}
+
+.topbar {
+    margin: 0%;
+    display: block;
+    width: 100%;
+    position: fixed;
+    padding: 24px;
+    background-color: rgb(0, 0, 0, 0.50);
+    box-shadow: 0px 10px 16px rgb(0, 0, 0, 0.25);
+    z-index: 2;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 12px;
+    font-size: 48px;
+
+    display: block;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.desc {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 16px;
+    font-size: 16px;
+
+    display: block;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+p {
+    width: 100%;
+    color: white;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .headline {
     font-size: 48px;
+    width: 100%;
+    text-align: left;
+}
+
+.parent {
+    margin-left: var(--shadow);
+    margin-right: var(--shadow);
+    width: 50%;
+    z-index: 0;
+}
+
+.center-contents {
+    /* Used to put the layer into parent div class */
+    position: absolute;
+    transform: translate(50%);
+}
+
+.grids {
+    display: grid 3;
+}
+
+.photo-cardview {
+    outline: 1.5px;
+    outline-offset: -1.5px;
+    outline-style: solid;
+    border-radius: 
+    var(--corners) 
+    var(--corners) 
+    var(--corners) 
+    var(--corners);
+    outline-color: rgb(0, 0, 0, 0.25);
+    background-color: white;
+    width: 25%;
+    margin: var(--shadow);
+}
+
+.spacer {
+    margin: 0px;
+    height: 96px;
 }
