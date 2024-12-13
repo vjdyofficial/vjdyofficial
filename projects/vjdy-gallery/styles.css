@@ -1,14 +1,327 @@
-:root {--shadow: 8px; --content-parent: 90%; --content-child: 30%; --corners: 8px; }
-body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0px; height: 100%; margin: 0px; background-color: rgb(0, 0, 0, 0.50); }
-.background {/* Having Background Image on the first div class. */position: absolute; left: 0px; top: 0px; z-index: 0; width: 100%; height: 100%; }
-.material-symbols-outlined {font-variation-settings:'FILL' 0,'wght' 400,'GRAD' 0,'opsz' 24; color: white; margin-right: 12px; }
-.topbar {margin: 0%; display: block; width: 100%; position: fixed; padding: 24px; background-color: rgb(0, 0, 0, 0.50); box-shadow: 0px 10px 16px rgb(0, 0, 0, 0.25); z-index: 2; display: flex; justify-content: center; align-items: center; }
-h1 {color: white; text-align: center; margin-top: 0px; margin-bottom: 12px; font-size: 48px; display: block; padding-left: 24px; padding-right: 24px; }
-.desc {color: white; text-align: center; margin-top: 0px; margin-bottom: 16px; font-size: 16px; display: block; padding-left: 24px; padding-right: 24px; }
-p {width: 100%; color: white; text-align: left; margin-top: 0px; margin-bottom: 0px; }
-.headline {font-size: 48px; width: 100%; text-align: left; }
-.parent {overflow-x: hidden;  /* Hide horizontal scrollbar */overflow-y: scroll;  /* Add vertical scrollbar */position: absolute; left: 0px; right: 0px; width: 100%; height: 100%; -ms-overflow-style: none;  /* IE and Edge */scrollbar-width: none;  /* Firefox */}
-.center-contents {/* Used to put the layer into parent div class */padding-left: 48px; padding-right: 48px; padding-top: 48px; padding-bottom: 48px; position: absolute; left: 50%; transform: translate(-50%); }
-.grids {display: grid 5; width: 125%; min-width: 350px; align-items: center; }
-.photo-cardview {outline: 1.5px; outline-offset: -1.5px; outline-style: solid; border-radius: var(--corners) var(--corners) var(--corners) var(--corners); outline-color: rgb(0, 0, 0, 0.25); background-color: white; width: 36%; margin: var(--shadow); aspect-ratio: 1 / 1;}
-.spacer {margin: 0px; height: 96px; }
+:root {
+  --shadow: 8px;
+  --content-parent: 90%;
+  --content-child: 30%;
+  --corners: 8px;
+  --corners-chip: 4px; }
+
+body {
+  font-family: Roboto, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0px;
+  height: 100%;
+  margin: 0px;
+  background-color: #2c3716;  
+}
+  
+
+.background {/* Having Background Image on the first div class. */
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,'wght' 400,'GRAD' 0,'opsz' 24;
+  color: white; 
+  margin-right: 12px; 
+}
+
+.topbar {
+  margin: 0%;
+  display: block;
+  width: calc(100% - 24px);
+  position: absolute;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  font-size: 48px;
+  display: block;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.desc {
+  color: white;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  font-size: 16px;
+  display: block;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.tags {
+  color: white;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  font-size: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+p {
+  color: white;
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.headline {
+  font-size: 48px;
+  width: 100%;
+  text-align: left;
+}
+
+.parent {
+  overflow-x: hidden;
+  overflow-y: scroll;  
+  left: 0px; 
+  right: 0px; 
+  width: 100%; 
+  height: 100%; 
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.center-contents {
+  margin: 0px;
+  z-index: 1;
+  align-items: center;
+  justify-content:
+  center; display:
+  inline-block; width: 100%;
+}
+
+.grids {
+  margin: 24px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  width: auto;
+  min-width: 175px;
+  gap: 16px;
+}
+
+.photo_container {
+  position: relative;
+  text-align: center;
+  transition: transform 0.3s
+}
+
+.photo_container:hover {
+  transform: scale(1.02);
+}
+
+.photo_container:active {
+  transform: scale(0.98);
+}
+
+.photo-cardview {
+  outline: 1.5px;
+  outline-offset: -1.5px;
+  outline-style: solid;
+  border-radius: var(--corners) var(--corners) var(--corners) var(--corners);
+  outline-color: rgb(0, 0, 0, 0.25);
+  background-color: white;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.spacer {
+  margin: 0px; height: 96px;
+}
+
+.photo-cardview_chip {
+  background-color: rgb(0, 0, 0, 0.50);
+  outline: 1.5px;
+  outline-offset: -1.5px;
+  outline-style: solid;
+  border-radius: var(--corners-chip) var(--corners-chip) var(--corners-chip) var(--corners-chip);
+  outline-color: rgba(255, 255, 255, 0.50);
+  padding-left: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 12px;
+  color: white;
+  letter-spacing: 0.8px;
+  font-size: 12px;
+  bottom: 12px;
+  left: 8px;
+  position: absolute;
+  display: block;
+  backdrop-filter: blur(24px);
+}
+
+@media (max-width: 640px) {
+  .photo-cardview_chip {
+    display: none;
+  }
+}
+
+.photo-cardview_chip-info {
+  background-color: rgb(0, 0, 0, 0.50);
+  outline: 1.5px;
+  outline-offset: -1.5px;
+  outline-style: solid;
+  border-radius: var(--corners-chip) var(--corners-chip) var(--corners-chip) var(--corners-chip);
+  outline-color: rgba(255, 255, 255, 0.50);
+  padding-left: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 12px;
+  color: white;
+  letter-spacing: 0.8px;
+  font-size: 12px;
+  display: inline;
+}
+
+.photo-cardview_chip-info2 {
+  background-color: #dfff9e;
+  outline: 1.5px;
+  outline-offset: -1.5px;
+  outline-style: solid;
+  border-radius: var(--corners-chip) var(--corners-chip) var(--corners-chip) var(--corners-chip);
+  outline-color: rgba(0, 0, 0, 0.75);
+  padding-left: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 12px;
+  color: rgb(0, 0, 0);
+  letter-spacing: 0.8px;
+  font-size: 12px;
+  display: inline;
+}
+
+#warning {
+  display: none;
+  padding: 24px;
+  color: white;
+  background-color: #40492e;
+  margin-bottom: 20px;
+  z-index: 20;
+}
+
+#settings-link {
+  color: #dfff9e;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Style for the modal (background) */
+.modal {
+  display: none; 
+  position: fixed; 
+  z-index: 1; 
+  padding-top: 0px; 
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  overflow: auto; 
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0,0.20); 
+  animation-duration: 0.25s;
+  backdrop-filter: blur(24px);
+}
+
+.modal.fade-in {
+  animation-name: fadeIn;
+} 
+
+.modal.fade-out {
+  animation-name: fadeOut; 
+}
+
+/* Style for the modal image */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 450px;
+  margin-top: 100px; 
+  animation-name: zoomIn;
+  animation-duration: 0.25s;
+  outline: 1.5px;
+  outline-offset: -1.5px;
+  outline-style: solid;
+  border-radius: var(--corners) var(--corners) var(--corners) var(--corners);
+  outline-color: rgb(0, 0, 0, 0.25);
+  box-shadow: 0px 12px 24px rgb(0, 0, 0, 0.25);
+  background-color: white;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.modal-content.zoom-in {
+  animation-name: zoomIn;
+}
+
+.modal-content.zoom-out {
+  animation-name: zoomOut;
+}
+
+/* Style for the close button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 30px;
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+/* Close button hover effect */
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Disable body scroll */
+.no-scroll {
+  overflow: hidden;
+}
+
+/* Keyframes for fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Keyframes for fade-out animation */
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+/* Keyframes for zoom-in animation */
+@keyframes zoomIn {
+  from { transform: scale(0.8); }
+  to { transform: scale(1); }
+}
+
+/* Keyframes for zoom-out animation */
+@keyframes zoomOut {
+  from { transform: scale(1); }
+  to { transform: scale(0.8); }
+}
