@@ -1,0 +1,14 @@
+.clockstyle {
+    display: inline-block;
+    font-family: 'Roboto Mono',monospace;
+    font-size: 32px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: right;
+    color: rgb(0, 0, 0);
+    border-radius: 6px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.75);
+}
