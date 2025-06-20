@@ -1,6 +1,8 @@
 .clockstyle {
     display: inline-block;
     font-family: 'Roboto Mono',monospace;
+    font-style: bold;
+    font-weight: 700;
     font-size: 32px;
     margin-left: 24px;
     margin-right: 24px;
