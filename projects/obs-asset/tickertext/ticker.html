@@ -1,0 +1,53 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Ticker Text</title>
+    <link rel="stylesheet" type="text/css" href="ticker.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <div class="marquee" title="Information Ticker">
+      <!-- Will appear as a scrolling ticker -->
+      <!-- The ticker text will scroll from right to left -->
+      <!-- It actually uses the JavaScript to get values in order to loop out properly -->
+      <span class="ticker">
+        Welcome to UCCP Naga Evangelical Church!
+        <i class="ticker-separator"> | </i>
+        <strong class="ticker-bday">Birthday Celebrants for this week:  </strong>
+        (June 22-28, 2025): 22- Roberto Andrada, 23-Leann Abayon; Ma. Claudette Aimie Garcera, 
+        24-Daniella Diputado; Jaremie Barrogo, 25-Ronimieh Ann Ebora, 27-Ma. Leora Austero, 28- Joven Anthony Omnes
+        <i class="ticker-separator"> | </i>
+        <strong class="ticker-flower">Flower Bringers this week: </strong>
+        This Sunday: (June 22, 2025): Sis. Ma. Leora Austero - Next Sunday: (June 29, 2025) Bro. Santiago Presentacion, Jr.
+        <i class="ticker-separator"> | </i>
+        <strong class="ticker-announcement">Church Activies and Announcements: </strong>
+        Bible Study: Sis. Grace Torres, Sis Nenita Torres | 
+        CBC CWA Execom Meeting: June 28, 2025, UCCP - Tinambac
+        <i class="ticker-separator"> | </i>
+        NEC 1st Council Meeting (Joint) - June 29, 2025: 
+        Freedom/Pentecost Month, 3rd Sunday after Pentecost - 
+        Preacher: ELDER EDDIE NAVARRETE,
+        Liturgist: SIS. KAYE COLLADA - BATANES
+        <i class="ticker-separator"> | </i>
+        UCCP Naga Evangelical Church - 50-1 Pe&#xf1;afrancia Ave, Naga City, 4400 Camarines Sur
+        <i class="ticker-separator"> | </i>
+      </span>
+    </div>
+    <script title="Ticker Animation">
+      const width = document.querySelector('.marquee').offsetWidth;
+      const ticker = document.querySelector('.ticker');
+      const tickerWidth = ticker.scrollWidth;
+      ticker.animate(
+        [
+          { transform: `translateX(${width}px)` },
+          { transform: `translateX(-${tickerWidth}px)` }
+        ],
+        {
+          duration: ((tickerWidth + width) * 10), // adjust speed as needed
+          iterations: Infinity,
+          easing: 'linear'
+        }
+      );
+    </script>
+  </body>
+</html>
