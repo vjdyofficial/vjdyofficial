@@ -15,7 +15,7 @@ The important things I made is doing a content in my YouTube Channel. also, I'm 
 One of others I made with my hobbies are Graphic Desiging, this can be use for creativity. Developing, I made useful apps for you for free. and last but not the least is Photography. I took the photo of sunset, portrait, nature and inspired people I met.
 
 > [!TIP]
-I love my _ninang_ kaye so much. even though she has a boyfriend already. I'm supporting her on Instagram and YouTube like a collab with each other. But the most loving so much is my family and cousins. I also love my friends.
+I love my _kim poño_ so much. I'm supporting her for Instagram and YouTube like a collab with each other. But the most loving so much is my family and cousins. I also love my friends.
 
 > [!WARNING]
 > ## I don't...
